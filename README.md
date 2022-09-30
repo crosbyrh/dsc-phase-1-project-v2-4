@@ -11,3 +11,9 @@ Here is a link to the presentatin http://localhost:8888/files/Presentation.pdf
 
 
 
+
+
+![<matplotlib.lines.Line2D at 0x7f9030cdd940>]
+
+
+
